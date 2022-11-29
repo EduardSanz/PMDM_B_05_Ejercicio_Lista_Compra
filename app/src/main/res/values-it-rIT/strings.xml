@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">05_Ejercicio_Lista_Compra</string>
+    <string name="alert_title_crear">Creare Nuovo Prodotto</string>
+    <string name="hint_nombre_producto">Nome Prodotto</string>
+    <string name="hint_cantidad_producto">Quantitá Prodotto</string>
+    <string name="hint_precio_producto">Prezzo Prodotto</string>
+    <string name="btn_alert_cancel">Cancellare</string>
+    <string name="btn_alert_crear">Creare</string>
+</resources>

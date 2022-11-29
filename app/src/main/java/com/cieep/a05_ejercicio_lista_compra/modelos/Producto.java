@@ -1,6 +1,8 @@
 package com.cieep.a05_ejercicio_lista_compra.modelos;
 
-public class Producto {
+import java.io.Serializable;
+
+public class Producto implements Serializable {
 
     private String nombre;
     private int cantidad;

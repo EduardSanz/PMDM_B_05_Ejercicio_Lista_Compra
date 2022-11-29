@@ -1,12 +1,11 @@
 <resources>
     <string name="app_name">05_Ejercicio_Lista_Compra</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="action_settings" translatable="false">Configuración</string>
+    <!-- ALERT DE CREAR -->
+    <string name="alert_title_crear">Crear nuevo producto</string>
+    <string name="hint_nombre_producto">Nombre Producto</string>
+    <string name="hint_cantidad_producto">Cantidad Producto</string>
+    <string name="hint_precio_producto">Precio Producto</string>
+    <string name="btn_alert_cancel">CANCELAR</string>
+    <string name="btn_alert_crear">CREAR</string>
 </resources>
